@@ -14,13 +14,13 @@
  
  😄 Pronouns: He/Him <br/>
 
-🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
+🎓 I’m currently pursuing my Bachelors in Computer Science and Engineering and have a strong interest in Coding💙 <br />
 
-✨  I write code in C/C++, Python, Bash, Java, JavaScript etc.. <br/>
+✨  I write code in C/C++, Python, etc.. <br/>
 
 <!-- 💬 I would love to talk about internship opportunities starting December 2022. </br> -->
 
-💡 I am currently focusing on Linux and Computer Networking. A beginner contributor at Open Source. <br/>
+💡 I am currently focusing on Data Structures and Algorithms. A beginner contributor at Open Source. <br/>
 
 <!-- 💞️ I’m looking to collaborate on any open source platform. <br /> -->
 
