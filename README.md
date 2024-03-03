@@ -37,7 +37,7 @@
 <a href="mailto:ayushdongardive3409@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://github.com/casanova1510/">
+<a href="https://twitter.com/ayyycord">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
 <a href="https://www.instagram.com/ayushz.t/">
