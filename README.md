@@ -74,20 +74,13 @@
 </details>
 <summary> </summary> -->
 <h2>My GitHub Stats</h2>
-<br>
 <p align="center">
-
-
-  <a href="https://github.com/casanova1510">
+<div>
+<img height="220" src="https://github-readme-stats.vercel.app/api?username=casanova1510&show_icons=true&theme=merko">
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casanova1510&count_private=true&langs_count=4&title_color=#3080ED&icon_color=#3080ED&text_color=black&bg_color=#000000">
+</div>
 </p>
 
-
-## Contribution Graph 📊
-
-<img
-     />
----
-<div align="center">
 
 ### Show some ❤️ by staring some of the repositories!
 
